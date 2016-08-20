@@ -1,0 +1,46 @@
+.top{height:130px;
+       background-color:green;}
+#himalaya{float:right;
+          margin:20px 0 20px 20px;}
+#heading1{float:left;
+          padding-top:25px;
+          color:red;}
+#nepal{background-color:orange;}
+#image1{float:left;}
+#two{font-size:23px;
+     text-align:center;
+     color:red;}
+#one{font-size:22px;
+     text-align:center;
+     color:blue;}
+#images{height:200px;
+        width:300px;
+        margin:0 auto;}
+
+#item{color:red;
+      text-align:center;}
+#first1{float:left;
+       margin-left:150px;}
+#second{float:right;
+        margin-right:150px;}
+
+#third{float:left;
+        margin-left:150px;
+        margin-top:30px;}
+#fourth{float:right;
+        margin-right:150px;
+        margin-top:30px;}
+#head{color:red;
+      text-align:center;
+      }
+#paragraph{color:green;}
+#colid{display:none;}
+#colid1{display:none;}
+#colid2{display:none;}
+
+
+#colid3{display:none;}
+
+
+
+
