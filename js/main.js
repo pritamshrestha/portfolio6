@@ -12,6 +12,6 @@
  	$('#btn3').click(function(){
  		$('#colid3').toggle()
  	})
-
+    $("#divSnow").websnowjq();
  }) 
   

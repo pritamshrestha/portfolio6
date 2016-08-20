@@ -41,6 +41,11 @@
 
 #colid3{display:none;}
 
+/*this is for the jquery plugin*/
+#divSnow{height:370px;
+         width:100%;
+         background-color:black;}
+
 
 
 
