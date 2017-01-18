@@ -1,3 +1,3 @@
 function myfunction(){
-	alert("your message hsa been sent!")
+	alert("your message has been sent!!!")
 }
